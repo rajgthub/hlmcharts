@@ -1,0 +1,32 @@
+apiVersion: v1
+entries:
+  my-nginx:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2020-01-04T21:59:57.744099443Z"
+    description: this is my first app using helm chart
+    digest: 6f6f78bb991d9ef0948b58c589a409fd6922649b66cb6baddf325c3eeaeb8b4e
+    name: my-nginx
+    urls:
+    - my-nginx-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2020-01-04T21:59:57.743955143Z"
+    description: this is my first app using helm chart
+    digest: 4a625c3ed5c7642fda72b14ec1798d5814625dc8987a606da67c027c8d2056f7
+    name: my-nginx
+    urls:
+    - my-nginx-0.4.0.tgz
+    version: 0.4.0
+  rajnginx:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-01-04T21:59:57.744398844Z"
+    description: A Helm chart for Kubernetes
+    digest: 0676bd4527db8d6af08bcc5d26b3137bc49f76bfc07cc29ae29bf623c6564762
+    name: rajnginx
+    urls:
+    - rajnginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-01-04T21:59:57.743526241Z"
